@@ -1,0 +1,10 @@
+.elementor-3245 .elementor-element.elementor-element-d7a1218{--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;}/* Start custom CSS */[data-elementor-type="header"]  > section {
+max-height: 75px;
+background: none !important;
+}
+[data-elementor-type="header"]  > section > .elementor-container > .elementor-column > .elementor-widget-wrap #idh-top-section{
+    display: none;
+}
+[data-elementor-type="header"] #idh-header {
+    background: #333;
+}/* End custom CSS */

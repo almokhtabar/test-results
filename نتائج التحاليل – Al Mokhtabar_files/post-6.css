@@ -1,0 +1,57 @@
+.elementor-kit-6{--e-global-color-primary:#DA2128;--e-global-color-secondary:#7C7C7C;--e-global-color-text:#666666;--e-global-color-accent:#888888;--e-global-color-35af494:#F5F5F5;--e-global-color-d08e1fb:#165E63;--e-global-color-32f0815:#719398;--e-global-color-530a4ef:#FFFFFF;--e-global-typography-primary-font-family:"Segoe UI";--e-global-typography-primary-font-size:16px;--e-global-typography-primary-font-weight:normal;--e-global-typography-primary-line-height:24px;--e-global-typography-secondary-font-family:"Segoe UI";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Segoe UI";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Segoe UI";--e-global-typography-accent-font-weight:500;color:var( --e-global-color-text );font-size:16px;font-weight:normal;line-height:24px;}.elementor-kit-6 h1{color:#666666;font-family:"Segoe UI", Sans-serif;font-size:48px;font-weight:500;font-style:italic;line-height:54px;}.elementor-kit-6 h2{color:var( --e-global-color-text );font-size:32px;font-weight:500;line-height:42px;}.elementor-kit-6 h3{color:var( --e-global-color-text );font-size:24px;font-weight:500;line-height:32px;}.elementor-kit-6 h4{color:var( --e-global-color-text );font-size:20px;font-weight:500;line-height:24px;}.elementor-kit-6 h5{color:var( --e-global-color-text );font-size:16px;font-weight:500;line-height:24px;}.elementor-kit-6 button,.elementor-kit-6 input[type="button"],.elementor-kit-6 input[type="submit"],.elementor-kit-6 .elementor-button{text-transform:capitalize;border-radius:6px 6px 6px 6px;}.elementor-kit-6 button:hover,.elementor-kit-6 button:focus,.elementor-kit-6 input[type="button"]:hover,.elementor-kit-6 input[type="button"]:focus,.elementor-kit-6 input[type="submit"]:hover,.elementor-kit-6 input[type="submit"]:focus,.elementor-kit-6 .elementor-button:hover,.elementor-kit-6 .elementor-button:focus{color:var( --e-global-color-530a4ef );background-color:var( --e-global-color-primary );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-primary );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-container{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:15px;}.elementor-element{--widgets-spacing:15px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-kit-6 h1{font-size:42px;line-height:46px;}.elementor-kit-6 h2{font-size:30px;line-height:36px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-6 h1{font-size:38px;}.elementor-kit-6 h2{font-size:28px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Segoe UI';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://almokhtabar.com/wp-content/uploads/2022/10/Segoe-UI.woff') format('woff');
+}
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://almokhtabar.com/wp-content/uploads/2022/10/Segoe-UI-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://almokhtabar.com/wp-content/uploads/2022/10/Segoe-UI-Italic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: italic;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://almokhtabar.com/wp-content/uploads/2022/10/Segoe-UI-Bold-Italic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://almokhtabar.com/wp-content/uploads/2022/10/Segoe-UI-Semibold.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://almokhtabar.com/wp-content/uploads/2022/10/Segoe-UI-Semilight.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://almokhtabar.com/wp-content/uploads/2022/10/Segoe-UI-Semilight-Italic.woff2') format('woff2');
+}
+@font-face {
+	font-family: 'Segoe UI';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://almokhtabar.com/wp-content/uploads/2022/10/seguisbi.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
